@@ -10,6 +10,12 @@
 
 ## Task Estimation in Scrum
 
+### Introduction
+
+### How to Estimate Tasks
+
+### Most Common Errors
+
 ## Coding Standards
 
 ## Code Reviews
