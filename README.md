@@ -12,5 +12,19 @@
 
 ## Coding Standards
 
+### General Knowledge
+
+#### Solid Principles
+
+#### Testing practices
+
+### Python 3
+
+#### Project Structure
+
+#### PEP8 
+
+#### Unit Testing
+
 ## Code Reviews
 
