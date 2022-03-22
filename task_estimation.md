@@ -7,9 +7,19 @@ Though we will always **estimate** the **size** of a task, by opposition to its 
 
 While there are many methods to achieve this purpose, we use **Fibonacci scale** using the **First Story as benchmark.**   
 
-If you are interested in understanding deeply the pros and the cons of this method, as well as some few other methods, we invite you to take a close look to [this article](https://medium.com/serious-scrum/best-way-to-estimate-effort-using-story-point-in-sprint-planning-f43ad2d6fa91) since we will only cover outlines here.  
+If you are interested in understanding deeply the pros and the cons of this method, as well as some few other methods, we invite you to take a close look to [this article](https://medium.com/serious-scrum/best-way-to-estimate-effort-using-story-point-in-sprint-planning-f43ad2d6fa91) since we will only cover outlines just below.
 
-Then below, you will find the two main rules that you should never forget while estimating tasks
+Fibonacci scale is based on **Fibonacci sequence**. It consists of numbers that each number is the sum of the two preceding ones, starting from 0 and 1. The beginning of the sequence start as below :
+
+> 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+
+...and goes to the infinite.
+
+In Fibonacci scale, each member estimate the complexity of the task only numbers from fibonacci sequence and present it to the rest of the group. It will leads to a **discussion** until all the team come to a consensus.
+
+And that's it ! Pretty simple, isn't it ?
+
+However we expect **every team members** to pay attention **carrefuly** the two rules elements below.
 
 ### The importance of discussion  
 
