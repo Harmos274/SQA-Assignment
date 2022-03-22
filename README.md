@@ -16,6 +16,22 @@
 
 #### Solid Principles
 
+In this company we believe in SOLID principles, because our softwares needs to be reliable on the long term, we need to make them easily maintainable.
+
+SOLID stands for:
+- **S**ingle Responsability
+- **O**pen/Closed Principle
+- **L**iskov Substitution
+- **I**nterface Segregation Principle
+- **D**ependency Injection
+
+This is a set of rules created to build better scalable softwares.
+Concisely, you need to ensure that every atomic element of your code serves only one purpose. The best thing to do is asking to yourself what is the purpose of what your coding, if it's "this ***and*** that" then you need to split your component in two. You also need to change the least possible the code already done, and work by extending it instead of rewriting it.
+
+Keep in mind that all the principles are purely **good practices** and sometimes you'll need to transgress them because the situation needs it.
+
+Read [that article](https://stackify.com/solid-design-principles/) to learn more about SOLID principles.
+
 #### Testing practices
 
 ### Python 3
