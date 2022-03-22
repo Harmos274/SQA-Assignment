@@ -24,8 +24,7 @@ The task estimation is a very important part of the SCRUM process for different 
 
 >The very process of estimation adds value. When we estimate we discuss requirements in more detail, and gain a better understanding of what is needed
 
-You can find a complete discussion of the for and against we should estimate tasks in SCRUM [here](https://dzone.com/articles/agile-estimation-practice).
-In this section, you are going to be explained how to estimate tasks in SCRUM
+You can find a complete discussion of the **pros and cons** we should estimate tasks in SCRUM [here](https://dzone.com/articles/agile-estimation-practice). Notice that in this article are presented several methods of estimation, but in the section below, you will be explained the **fibonacci** method of task estimation.
 
 ### How to Estimate Tasks
 
