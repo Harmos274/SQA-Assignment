@@ -26,11 +26,36 @@
 
 #### Unit Testing with Pytest
 
+In order to apply a quality assurance policy, the company has chosen Pytest to run unit tests.
 Pytest is an external testing module for python. It is more easy to use and intuitive than the built in testing module of python.
 You can organize your tests in class, this allow you to respect the separation of concern practice.
 This module gives the developers a simple way to test their code when unexpected things happen.
 
 >Testing that your program responds as expected in negative situations is very important.
+
+Pytest is pretty easy to use, because it provides developers an API to test functions:
+
+    def inc(x):
+        return x + 1
+
+
+    def test_answer():
+        assert inc(3) == 5
+
+Pytest would answer:
+
+    ______________________________test_answer_______________________________
+
+        def test_answer():
+    >       assert inc(3) == 5
+    E       assert 4 == 5
+    E        +  where 4 = inc(3)
+
+    test_sample.py:6: AssertionError
+    ========================short test summary info=========================
+    FAILED test_sample.py::test_answer - assert 4 == 5
+    ===========================1 failed in 0.12s============================
+
 
 Pytest allows developers to use mocks, in order to imitate modules that we do not want to test, because we consider them external to our code. For example, you can mock HTTP responses to test your program in a lot of different situations.
 
