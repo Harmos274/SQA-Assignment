@@ -24,7 +24,17 @@
 
 #### PEP8 
 
-#### Unit Testing
+#### Unit Testing with Pytest
+
+Pytest is an external testing module for python. It is more easy to use and intuitive than the built in testing module of python.
+You can organize your tests in class, this allow you to respect the separation of concern practice.
+This module gives the developers a simple way to test their code when unexpected things happen.
+
+>Testing that your program responds as expected in negative situations is very important.
+
+Pytest allows developers to use mocks, in order to imitate modules that we do not want to test, because we consider them external to our code. For example, you can mock HTTP responses to test your program in a lot of different situations.
+
+You can get a full guide of Pytest by reading this [article](https://medium.com/worldsensing-techblog/tips-and-tricks-for-unit-tests-b35af5ba79b1).
 
 ## Code Reviews
 
