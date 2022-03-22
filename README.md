@@ -27,8 +27,8 @@
 #### Unit Testing with Pytest
 
 In order to apply a quality assurance policy, the company has chosen Pytest to run unit tests.
-Pytest is an external testing module for python. It is more easy to use and intuitive than the built in testing module of python.
-You can organize your tests in class, this allow you to respect the separation of concern practice.
+Pytest is an external testing module for python. It is more intuitive and easier to use than the built in Python 3 testing module.
+You can organize your tests in classes, this allow you to respect the separation of concern practice.
 This module gives the developers a simple way to test their code when unexpected things happen.
 
 >Testing that your program responds as expected in negative situations is very important.
