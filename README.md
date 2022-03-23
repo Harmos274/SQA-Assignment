@@ -68,4 +68,4 @@ They succeed in crossing the crocodile river swimming since no one told them tha
 
 #### Never assume that the code will run
 
-A very common mistake is to review a code, assuming that the code you are reviewing is working as intended. **ALWAYS** run the code on your own to check everything works as expected. The last thing you want is to face an emergency while production is broken due to a piece of code you reviewed.
+A very common mistake is to review a code, assuming that the code you are reviewing is working as intended. **ALWAYS** run the code on your own to check that everything works as expected. The last thing you want is to face an emergency while production is broken due to a piece of code you reviewed.
