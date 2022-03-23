@@ -28,6 +28,6 @@ Coding Standards
 
 Code Reviews
   - Introduction - **Matthis CUSIN**
-  - How to make a code reviews ? - **Lilian VERLHAC**
+  - How to make a code review ? - **Lilian VERLHAC**
   - Most common errors - **Matthis CUSIN**
 
