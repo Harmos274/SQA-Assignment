@@ -12,6 +12,12 @@
 
 ## Coding Standards
 
+- Follow as much as possible the SOLID Principles
+- Test your code with Pytest
+- You tests need to be fast, simple and readable
+- Follow the requested project structure
+- Follow the PEP8 directives as much as possible, **except the 80 columns restriction**
+
 ### General Knowledge
 
 #### Solid Principles
@@ -52,7 +58,7 @@ Unit Tests Role In A QA Strategy, and it is one of the best ways to get constant
 
 ![Tests Pyramide](./assets/coding_standards-pyramide.png)
 
-Tests should be fast, simple and redable, but should not repete logical implementation of code.
+Tests should be fast, simple and readable, but should not repeat logical implementation of code.
 If you want a complete discussion on unit testing, and a list of useful good practices, please read [this](https://www.testim.io/blog/unit-testing-best-practices/).
 
 ### Python 3
