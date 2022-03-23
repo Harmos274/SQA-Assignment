@@ -43,7 +43,7 @@ We will address **4 common errors** that are already encountered while doing a c
 
 #### Do NOT let the code cool down
 
-If one of your colleague ask you to review its work. He will be certainly waiting for your review in the next minutes and then will switch to something else. Thus when you will do the review, maybe few hours later he will have to switch back to his previous work which will have an **extra switching cost** for him. Moreover, he could have forget some aspect of his code he will have to remind in order to fix its code.
+If one of your colleague asks you to review their work. He will be certainly waiting for your review for the next few minutes and then will switch to something else. Thus, when you will do the review, maybe few hours later, he will have to switch back to his previous work which could have an **extra switching cost** for him. Moreover, he could have forgotten some aspect of his code and he'll need to remind them before treating your feedbacks.
 
 #### Provide a constructive feedback
 
