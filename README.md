@@ -16,13 +16,67 @@
 
 #### Solid Principles
 
+In this company we believe in SOLID principles, because our softwares needs to be reliable on the long term, we need to make them easily maintainable.
+
+SOLID stands for:
+- **S**ingle Responsability
+- **O**pen/Closed Principle
+- **L**iskov Substitution
+- **I**nterface Segregation Principle
+- **D**ependency Injection
+
+This is a set of rules created to build better scalable softwares.
+Concisely, you need to ensure that every atomic element of your code serves only one purpose. The best thing to do is asking to yourself what is the purpose of what your coding, if it's "this ***and*** that" then you need to split your component in two. You also need to change the least possible the code already done, and work by extending it instead of rewriting it.
+
+Keep in mind that all the principles are purely **good practices** and sometimes you'll need to transgress them because the situation needs it.
+
+Read [that article](https://stackify.com/solid-design-principles/) to learn more about SOLID principles.
+
 #### Testing practices
 
 ### Python 3
 
 #### Project Structure
 
+To prevent a certain lack of consistency between projects every Python 3 projects needs to follow a specific file structure.
+
+For example if you're developing on a project named `sample` you'll see that kind of file structure:
+
+```
+Makefile
+README.md
+LICENSE
+setup.py
+requirements.txt
+sample/__init__.py
+sample/core.py
+sample/helpers.py
+docs/conf.py
+docs/index.rst
+tests/test_basic.py
+tests/test_advanced.py
+```
+
+As you can see the `sample/` folder is where the actual business code of the project is. There's also a `test/` folder where you can put your tests.
+The `requirements.txt` file is a `pip` requirement file where all the packages needed to run the program are specified using the [pip format](https://pip.pypa.io/en/stable/reference/requirements-file-format/#example).
+
+To know more on this structure you can read [this article](https://docs.python-guide.org/writing/structure/), it also includes some architecture advice.
+
 #### PEP8 
+
+On Python 3 we choose to follow the [PEP8](https://realpython.com/python-pep8/) set of rules, which are the most classics rules in Python that almost everybody follows. Here are some basic keypoints:
+
+- Function names are in `snake_case` and are named with verb
+- Variable names are in `snake_case` and are named with word or a single letter
+- Classes are in `PascalCase` and their methods in `snake_case`
+- Constants are in `SCREAMING_SNAKE_CASE` and are named with full words
+- Module names are in `snake_case`
+- Package names are named in `lowercase` with no space or separation between words
+- Use 4 consecutive spaces for each level of indentation
+
+Note that **we don't use the 80 characters limit per line**, you need to be concise but no needs to break your line at weird places to stay in your character limit.
+
+If you want to practice a bit how to write good python code you can follow [this courses](https://openclassrooms.com/en/courses/6900866-write-maintainable-python-code) on OpenClassrooms which will introduce you to PEP8 and also teach you some useful design patterns.
 
 #### Unit Testing with Pytest
 
