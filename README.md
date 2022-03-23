@@ -64,6 +64,20 @@ To know more on this structure you can read [this article](https://docs.python-g
 
 #### PEP8 
 
+On Python 3 we choose to follow the [PEP8](https://realpython.com/python-pep8/) set of rules, which are the most classics rules in Python that almost everybody follows. Here are some basic keypoints:
+
+- Function names are in `snake_case` and are named with verb
+- Variable names are in `snake_case` and are named with word or a single letter
+- Classes are in `PascalCase` and their methods in `snake_case`
+- Constants are in `SCREAMING_SNAKE_CASE` and are named with full words
+- Module names are in `snake_case`
+- Package names are named in `lowercase` with no space or separation between words
+- Use 4 consecutive spaces for each level of indentation
+
+Note that **we don't use the 80 characters limit per line**, you need to be concise but no needs to break your line at weird places to stay in your character limit.
+
+If you want to practice a bit how to write good python code you can follow [this courses](https://openclassrooms.com/en/courses/6900866-write-maintainable-python-code) on OpenClassrooms which will introduce you to PEP8 and also teach you some useful design patterns.
+
 #### Unit Testing
 
 ## Code Reviews
