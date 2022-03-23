@@ -14,7 +14,7 @@ Introduction - **Lilian VERLHAC**
 
 Task Estimation in SCRUM
   - Intro - **Maximilien BOREK**
-  - How to estimate tasks - **Matthis CUSIN**
+  - How to estimate tasks ? - **Matthis CUSIN**
   - Most common errors - **Maximilien BOREK**
 
 Coding Standards
@@ -28,6 +28,6 @@ Coding Standards
 
 Code Reviews
   - Introduction - **Matthis CUSIN**
-  - How to estimate tasks - **Lilian VERLHAC**
+  - How to make a code reviews ? - **Lilian VERLHAC**
   - Most common errors - **Matthis CUSIN**
 
