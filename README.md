@@ -19,6 +19,11 @@ Every section begins with a selection of keypoints that summarizes its content i
 
 ## Code Reviews
 
+- Be humble  
+- Be concise  
+- Be available  
+- Be proactive  
+
 ### Introduction
 
 In this section we will address the **code reviews** process in the company. Indeed, as a developper you will be submiting some new code or modifications to the code base.  
