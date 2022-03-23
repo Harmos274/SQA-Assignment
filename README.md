@@ -66,6 +66,6 @@ At the same time, do not hesitate to share any kind of positive feeling you coul
 This is probably one of the most common mistake. If you find yourself in a position where you are reviewing someone who is senior to you, **NEVER** assume that you have nothing to learn from him. To the contrary, always assume that this person can teach you something that you don't know yet. Especially if your are facing a very young developer (such as an intern), they are more enclined than to find unexpected solutions.
 They succeed in crossing the crocodile river swimming since no one told them that it was impossible.
 
-#### Never assume that the code will launch
+#### Never assume that the code will run
 
 A very common mistake is to review a code, assuming that the code you are reviewing is working as intended. **ALWAYS** run the code on your own to check everything works as expected. The last thing you want is to face an emergency while production is broken due to a piece of code you reviewed.
