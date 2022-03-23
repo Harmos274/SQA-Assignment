@@ -59,7 +59,7 @@ or
 
 > "I am suprised by... I would rather use..."
 
-At the same time, do not hesitate to share any kind of positive feeling you could havelooking at the code. Congratulation are always welcome !
+At the same time, do not hesitate to share any kind of positive feeling you could have when you're reviewing the code. Congratulation are always welcome !
 
 #### Keep your ego out
 
