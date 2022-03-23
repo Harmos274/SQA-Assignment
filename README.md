@@ -35,7 +35,7 @@ This module gives the developers a simple way to test their code when unexpected
 
 Pytest is pretty easy to use, because it provides developers an API to test functions:
 
-```
+```python
 def inc(x):
     return x + 1
 
