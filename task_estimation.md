@@ -26,7 +26,7 @@ However we expect **every team members** to pay attention **carrefuly** the two 
 Task estimation is achieved with the **whole team**. As mentionned on the aboved mentionned article:
 > _"it is not surprising to see different even contradictory views on how effort should be estimated"_  
 > 
-Thus you should always remember that the research of a consensus through **discussion is an integral part of the job, if not the essence of it**.
+Thus you should always remember that the research of a consensus through **discussion is an integral part of the job, if not the essence of it**. You will find in the next section some common errors to avoid to find a consensus efficiently, and peacefully.
 
 _N.B. : The voice of a newcomer worth as much as the other voice. Hence a proper enboarding is very important_  
   
