@@ -28,6 +28,6 @@ Coding Standards
 
 Code Reviews
   - Introduction - **Matthis CUSIN**
-  - Part 1 - **Lilian VERLHAC**
-  - Part 2 - **Matthis CUSIN**
+  - How to estimate tasks - **Lilian VERLHAC**
+  - Most common errors - **Matthis CUSIN**
 
