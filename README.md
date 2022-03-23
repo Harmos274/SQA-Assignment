@@ -39,7 +39,7 @@ To make sure these reviews will be valuable for you , people you will be reviewi
 
 ### Most common errors
 
-We will address **4 common errors** that are already encountered while doing a code review. These can be avoid by following good practices. You will find [here](https://www.backhub.co/blog/best-practices-reviewing-pull-requests-github) and [here](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/) an article which you could use as a guide for your code reviews.
+We will address **4 common errors** that we already encountered during code reviews. Those could have been avoided by following some good practices. You will find [here](https://www.backhub.co/blog/best-practices-reviewing-pull-requests-github) and [here](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/) two articles which you can use as guides when you're reviewing code.
 
 #### Do NOT let the code cool down
 
